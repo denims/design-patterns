@@ -1,5 +1,9 @@
 package com.deni.design.pattern.creational.factory;
 
+import com.deni.design.pattern.creational.factory.idiom.Demo;
+import com.deni.design.pattern.creational.factory.idiom.DemoFactory;
+import com.deni.design.pattern.creational.factory.idiom.DemoImpl1;
+import com.deni.design.pattern.creational.factory.idiom.DemoImpl2;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

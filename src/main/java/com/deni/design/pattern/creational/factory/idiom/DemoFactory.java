@@ -1,4 +1,4 @@
-package com.deni.design.pattern.creational.factory;
+package com.deni.design.pattern.creational.factory.idiom;
 
 public class DemoFactory {
     public static Demo getDemo(String demoToCreate) {

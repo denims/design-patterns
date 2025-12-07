@@ -1,4 +1,4 @@
-package com.deni.design.pattern.creational.factory;
+package com.deni.design.pattern.creational.factory.idiom;
 
 public class DemoImpl2 implements Demo {
     @Override
